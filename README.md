@@ -1,3 +1,4 @@
+CONTROLS: 
 !i : instructions
 !g : show letters
 !f : shuffle letters
@@ -7,9 +8,8 @@
 
 ```
 
-# Open Spelling Bee (OSB)
+# Spelling Bee
 
-# 🐝
 
 Open source port of New York Times' puzzle game Spelling Bee for the command line.
 
@@ -21,7 +21,7 @@ To play a random game:
 
     python3 play_puzzle.py
 
-To play a non-random game:
+To play a non-random game where you choose the letters:
 
     python3 play_puzzle.py ABCDEFG (First letter will be the center letter, for a total of 7)
 
@@ -115,21 +115,6 @@ Your guess: GROUND
 ✓ GROUND word score = 3 words found = 1/37 total score = 3/88
 
 ```
-
-Use the following commands for more details:
-
-```
-
-!i : instructions
-!g : show letters
-!f : shuffle letters
-!s : player stats
-!h : help
-!q : quit
-
-```
-
----
 
 ## interesting puzzles
 
