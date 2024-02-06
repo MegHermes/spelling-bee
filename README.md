@@ -1,3 +1,5 @@
+''''
+
 # CONTROLS: 
 !i : instructions
 !g : show letters
@@ -6,7 +8,6 @@
 !h : help
 !q : quit
 
-```
 
 # Spelling Bee
 
