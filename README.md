@@ -1,4 +1,4 @@
-CONTROLS: 
+# CONTROLS: 
 !i : instructions
 !g : show letters
 !f : shuffle letters
