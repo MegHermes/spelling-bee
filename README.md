@@ -9,12 +9,12 @@
 !q : quit
 
 
-# Spelling Bee
+# Spelling Bee (based on NYT game)
 
 
-Open source port of New York Times' puzzle game Spelling Bee for the command line.
+Open source port of New York Times' puzzle game Spelling Bee for the **command line.**
 
-Requires Python 3.x and nothing but standard Python libraries.
+Requires Python 3.x and standard Python libraries.
 
 ## to play
 
@@ -60,7 +60,7 @@ which will then be saved to `data/ABCDEFG.json`.
 
 ## to change the size of the wordlist
 
-If you find the game overly facile or wish your recondite words were accepted, you can change the wordlist size. Change `size=35` to a larger number in [word_lists/mkscowl](word_lists/mkscowl) and then run `mkscowl` to create a new wordlist. You must run `generate_puzzles.py` (as detailed above) whenever the wordlist changes.
+You can change the wordlist size. Change `size=35` to a larger number in [word_lists/mkscowl](word_lists/mkscowl) and then run `mkscowl` to create a new wordlist. You must run `generate_puzzles.py` (as detailed above) whenever the wordlist changes.
 
 | Description | Scowl size | Num words | Sample word |
 | ----------- | ---------- | --------- | ----------- |
