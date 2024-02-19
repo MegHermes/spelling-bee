@@ -30,6 +30,11 @@ To play a non-random game where you choose the letters:
 
 where `A` is the center letter that must be used at least once in each word. If the puzzle `ABCDEFG` does not exist, it will be created and saved to `data/ABCDEFG.json` (the file names are the first letter and the alphabetically sorted remaining letters).
 
+## Images
+
+<img width="944" alt="Screenshot 2024-02-19 at 11 59 05 AM" src="https://github.com/MegHermes/spelling-bee/assets/68392405/b8a14d51-0e2c-47a6-bb96-14dcef708d37">
+
+
 The word list used is from [SCOWL](http://wordlist.aspell.net/). The default setting contains 40,000 words, which seems comparable to the New York Times dictionary. (See below on changing the size parameter to include more erudite words.)
 
 To reach "genius" level, you'll need to solve 50% of the words.
