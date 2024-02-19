@@ -16,8 +16,10 @@ Open source port of New York Times' puzzle game Spelling Bee for the **command l
 
 Requires Python 3.x and standard Python libraries.
 
-## to play
-
+## To play
+- Download repo
+- Open Terminal and navigate to the folder (cd~/downloads/spelling-bee
+- Enter command based on randon or non random game:
 To play a random game:
 
     python3 play_puzzle.py
